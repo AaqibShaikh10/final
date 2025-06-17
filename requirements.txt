@@ -1,5 +1,6 @@
 streamlit
 langchain
 langchain-community
-langchain-groq
-pypdf
+sentence-transformers
+groq
+PyPDF2
